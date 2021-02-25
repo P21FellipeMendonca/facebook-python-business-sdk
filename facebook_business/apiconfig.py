@@ -18,8 +18,4 @@
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 # DEALINGS IN THE SOFTWARE.
 
-ads_api_config = {
-  'API_VERSION': 'v9.0',
-  'SDK_VERSION': 'v9.0.3',
-  'STRICT_MODE': False
-}
+ads_api_config = {"API_VERSION": "v10.0", "SDK_VERSION": "v9.0.3", "STRICT_MODE": False}
